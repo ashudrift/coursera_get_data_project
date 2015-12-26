@@ -7,11 +7,17 @@ The ID of people under study - integers 1-30
 ## Activity
 
 The activity they were performing when the measurement was taken :
+
 1 WALKING
+
 2 WALKING_UPSTAIRS
+
 3 WALKING_DOWNSTAIRS
+
 4 SITTING
+
 5 STANDING
+
 6 LAYING
 
 ##  Features
@@ -27,24 +33,24 @@ std(): Standard deviation
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ(prefix 't' to denote time) 
 
-*tBodyAccMeanX
+-tBodyAccMeanX
 
-*tBodyAccMeanY
+-tBodyAccMeanY
 
-*tBodyAccMeanZ
+-tBodyAccMeanZ
 
-*tBodyAccStdX
+-tBodyAccStdX
 
-*tBodyAccStdY
+-tBodyAccStdY
 
-*tBodyAccStdZ
+-tBodyAccStdZ
 
 *tBodyGyroMeanX
 *tBodyGyroMeanY
 *tBodyGyroMeanZ
 *tBodyGyroStdX
-*tBodyGyroStdY
-*tBodyGyroStdZ
+-tBodyGyroStdY
+-tBodyGyroStdZ
 
 ### Data about jerk (keyword = jerk)
 

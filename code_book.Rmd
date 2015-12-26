@@ -28,10 +28,15 @@ std(): Standard deviation
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ(prefix 't' to denote time) 
 
 *tBodyAccMeanX
+
 *tBodyAccMeanY
+
 *tBodyAccMeanZ
+
 *tBodyAccStdX
+
 *tBodyAccStdY
+
 *tBodyAccStdZ
 
 *tBodyGyroMeanX

@@ -29,10 +29,18 @@ std(): Standard deviation
 
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions
 
+
+
+units:    for accelerometer data :  m/s^2
+          for gyro data:            radians/second
+
 ### accelerometer and gyroscope data 
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ(prefix 't' to denote time) 
 
+units:    for accelerometer data :  m/s^2
+          for gyro data:            radians/second
+          
 *tBodyAccMeanX
 
 *tBodyAccMeanY
